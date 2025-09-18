@@ -62,8 +62,8 @@ $$
 ## Technologies
 
 - Python 3.13
-- NumPy – array manipulation
-- matplotlib – visualization and animation
+- **NumPy** – array manipulation
+- **matplotlib** – visualization and animation
 
 ## Project Structure
 
@@ -82,7 +82,7 @@ particle-swarm-optimization/
 
 ## How to Run
 
-1. **Clone the repository:**
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/marcosnevary/particle-swarm-optimization.git
@@ -90,13 +90,13 @@ particle-swarm-optimization/
 
    ```
 
-2. **Install dependencies:**
+2. Install dependencies:
 
    ```bash
    uv sync
    ```
 
-3. **Run:**
+3. Run:
 
    ```bash
    python main.py
